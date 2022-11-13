@@ -1,8 +1,26 @@
 - 👋 Hey Homie, I’m Athul
 
-# My Social Networks
+# Follow On
 
-https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+
+
+<p align="left">
+
+<a href="https://youtube.com/channel/UCvcYWVbvK85_taVr8cqBwYg"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+
+</p>
+
+<p align="left">
+
+<a href="https://t.me/athulx80"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+</p>
+
+<p align="left">
+
+<a href="https://instagram.com/_athul.x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+</p>
 
 
 
