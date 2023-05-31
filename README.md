@@ -1,7 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there!; it's me+Athul!;𝗧𝗛𝗔𝗡𝗞𝗦+𝗧𝗢+𝗩𝗜𝗦𝗜𝗧+𝗠𝗬+𝗚𝗜𝗧𝗛𝗨𝗕+𝗔𝗖𝗖𝗢𝗨𝗡𝗧❤️)</p>
+Hey there! it's me Athul!
 
-# 𝙁𝙤𝙡𝙡𝙤𝙬 𝙊𝙣
-
+# Follow on
 
 
 <p align="left">
